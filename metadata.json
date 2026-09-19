@@ -1,0 +1,6 @@
+{
+  "name": "SHILPI — Create Your Ganesha",
+  "description": "An interactive Ganesh Chaturthi workshop game where players sculpt an eco-friendly natural clay Bappa, design and build a community Mandal with sustainable decorations, and celebrate responsibly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
